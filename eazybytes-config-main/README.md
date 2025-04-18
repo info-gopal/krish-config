@@ -1,1 +1,1 @@
-# eazybytes-config
+# krisbank-config
